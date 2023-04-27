@@ -1,4 +1,4 @@
-## Age checking project
+## Age check project
 
 [EN] This is a beginner level code in Python that shows a simple age checking system.
 
